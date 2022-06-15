@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Эльбрус</title>
+
+	<link rel="stylesheet" href="css/faq.css">
+
+
+
+</head>
+<body>
+
+
+        <header>
+           <div class="container1">
+                <div class="logo">
+                    <a href="../index.php">
+                       <img src="images/logo11.png" style="/* width:145px; *//* height:145px; */" alt="logo">
+                    </a>
+                </div>
+<div class="navmenu"style="text-align: center;">
+                        <ul id="menu">
+                        <li class="active"><a href="about.html">О нас</a></li>
+                            <li><a href="search.php">Туры</a></li>
+
+              <li><a href="#YSLUGI">Акции</a></li>
+              <li><a href="faq.html">Поддержка</a></li>
+
+                            <li ><a href="contact.html">Контакты</a></li>
+                            <li class="last">
+
+  <a href="../profile.php">   <img src="images/ic2.png" width="20px" height="20px"   ></a>
+
+</li>
+
+                            <!--li><a href="#features">Features</a></li-->
+                        </ul>
+                    </div>
+
+            </div>
+
+
+
+
+        </header>
+
+
+<section id="faq">
+
+<div class="container">
+<div class="fr">
+
+<div class="fr_q">
+<div class="fr_foto">
+ <img src="images/FAQ/1.jpg" width="332px" height="195px" alt=" ">
+</div>
+<div class="fr_text">
+ <a href="../faq-podr.html"<h1> Памятка туриста по<br> отдыху</h1></a>
+</div>
+<div class="fr_span">
+<span> > </span>
+</div>
+</div>	
+
+
+
+
+<div class="fr_q">
+<div class="fr_foto">
+ <img src="images/FAQ/2.jpg" width="332px" height="195px" alt=" ">
+</div>
+<div class="fr_text">
+<h1> Как забронировать тур<br>
+ онлайн?</h1>
+</div>
+<div class="fr_span">
+<span> > </span>
+</div>
+</div>	
+
+
+
+<div class="fr_q">
+<div class="fr_foto">
+ <img src="images/FAQ/3.jpg" width="332px" height="195px" alt=" ">
+</div>
+<div class="fr_text">
+<h1> Страхование туристов</h1>
+</div>
+<div class="fr_span">
+<span> > </span>
+</div>
+</div>	
+
+
+<div class="fr_q1">
+<div class="fr_foto">
+ <img src="images/FAQ/4.jpg" width="332px" height="195px" alt=" ">
+</div>
+<div class="fr_text">
+<h1> Отдых в рассрочку и <br>кредит</h1>
+</div>
+<div class="fr_span1">
+<span> > </span>
+</div>
+</div>	
+
+
+
+<div class="fr_q1">
+<div class="fr_foto">
+ <img src="images/FAQ/5.jpg" width="332px" height="195px" alt=" ">
+</div>
+<div class="fr_text">
+<h1> Вопрос о сотрудничестве</h1>
+</div>
+<div class="fr_span1">
+<span> > </span>
+</div>
+</div>	
+
+
+<div class="fr_q1">
+<div class="fr_foto">
+ <img src="images/FAQ/8.jpg" width="332px" height="195px" alt=" ">
+</div>
+<div class="fr_text">
+<h1> Подарочная карта <br>
+RUS tourism</h1>
+</div>
+<div class="fr_span1">
+<span> > </span>
+</div>
+</div>	
+
+
+</div>	
+</div>	
+
+</section>
+
+
+
+
+<footer>
+            <div class="container1">
+			<div class="card_r">
+			
+			
+			<div class="navmenu" style="text-align: center;">
+                        <ul id="menu">
+                        <li class="active"><a href="about.html">О нас</a></li>
+                            <li><a href="search.html">Туры</a></li>
+
+              <li><a href="#YSLUGI">Акции</a></li>
+
+
+                            <li><a href="contact.html">Контакты</a></li>
+                            <li class="last">
+
+  <a href="../registrarion.php" class="button1" onclick="togglePopup()">   <img src="images/ic1.png"></a>
+
+</li>
+
+                            <!--li><a href="#features">Features</a></li-->
+                        </ul>
+                    </div>
+			
+			
+			
+			
+			 </div>
+			
+			
+			
+			
+			
+				
+				
+				
+				
+				<div class="card_r1">
+	
+               
+                    <a href="../index.html">
+                       <img src="images/Icons/inst1.png" width="40px" height="40px" alt="ic">
+                    </a>
+               
+				 
+                    <a href="../index.html">
+                       <img src="images/Icons/vk1.png" width="40px" height="40px" alt="ic">
+                    </a>
+                </div>
+</div>
+         
+
+<div class="container33">
+
+				<ul>
+							<li> <a href="#"> </a><p><a href="#">Copyright © RUS Tourism 
+ 							2022  Все права защищены  </a> </p>  </li>
+								
+				</ul>
+
+ 	</div>
+
+       </footer>
+
+
+
+</body>
+</html>

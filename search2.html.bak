@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>MY_GIRO </title>
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500,700" rel="stylesheet">
+  
+  <link rel='stylesheet prefetch' href='https://unpkg.com/flickity@2/dist/flickity.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+   <link rel="stylesheet" href="css/bootstrap.min.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+
+
+<body>
+    <div class="bg">
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <a href="../index.html">
+                        <img src="img/LOGO_3.png" style="width:80px; height:80px;" alt="logo">
+                        My Giro
+                    </a>
+                </div>
+<div class="navmenu"style="text-align: center;">
+						<ul id="menu">
+						<li class="active"><a href="#home">Главная</a></li>
+							<li><a href="#about">О нас</a></li>
+							<li><a href="#galler">Каталог</a></li>
+							<li class="last"><a href="#kontacti">Контакты</a></li>
+							
+						
+						</ul>
+					</div>
+                
+            </div>
+        </header>
+
+        <section id="Main" class="container">
+            <div class="MainText">
+<ul>
+    <li>   <h1> Гироскутеры</h1>
+                 </li>
+
+     <li>       <p >Станьте счастливым<br />
+                    обладателем транспорта <br />
+                    прямо сейчас!</p>     </li>
+
+</ul>
+                <button class="butn" name="PhoneCall">Заказать звонок</button>
+            </div>
+        </section>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <section id="Main11" class="container">
+  	<br>
+  	<br>
+  	<br>
+  	 <div class="h1cent">
+  	  <h1 class="text-center">Наши преимущества</h1>
+  	  </div>
+
+  	 	<br>
+  	 		<br>
+    <div class="slide--parent">
+    <div class="parent--el">
+        <div class="two--col">
+            <div class="is-item has--img">
+                <figure class="the-img">
+                    <img src="img/advantages/2.png" alt="">
+                </figure>
+            </div>
+            <div class="is-item has--content">
+                <div class="is-item--inner">
+                    <h1><span>БОЛЬШОЙ<br />АССОРТИМЕНТ</span></h1>
+                    <hr>
+                    <p>В нашем интернет-магазине представлен большой
+            выбор гироскутеров, сигвеев и электросамокатов
+            от известных мировых производителей.<br /></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  
+
+   <div class="parent--el">
+        <div class="two--col">
+            <div class="is-item has--img">
+                <figure class="the-img">
+                    <img src="img/advantages/8.png" alt="">
+                </figure>
+            </div>
+            <div class="is-item has--content">
+                <div class="is-item--inner">
+                    <h1><span>БЫСТРАЯ<br />ДОСТАВКА</span></h1>
+                    <hr>
+                    <p>Доставка заказов осуществляется бесплатно, в любую точку России.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+   <div class="parent--el">
+        <div class="two--col">
+            <div class="is-item has--img">
+                <figure class="the-img">
+                    <img src="img/advantages/4.png" alt="">
+                </figure>
+            </div>
+            <div class="is-item has--content">
+                <div class="is-item--inner">
+                    <h1><span>ГАРАНТИЯ<br />КАЧЕСТВА</span></h1>
+                    <hr>
+                    <p>Все товары, представленные на нашем сайте, отобраны лучшими специалистами в этой
+            области.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+   <div class="parent--el">
+        <div class="two--col">
+            <div class="is-item has--img">
+                <figure class="the-img">
+                    <img src="img/advantages/6.png" alt="">
+                </figure>
+            </div>
+            <div class="is-item has--content">
+                <div class="is-item--inner">
+                    <h1><span>ОНЛАЙН<br />КОНСУЛЬТАНТ</span></h1>
+                    <hr>
+                   <p> Купить гироскутер, электросамокат или сигвей недорого, Вы можете в нашем интернет-магазине
+            в любое время, когда Вам удобно.</p>
+             <p>Так же, вы можете заказать гироскутер, сигвей или электросамокат по низкой цене,
+            позвонив нам.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+
+</div>
+</div>
+</section>
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src='https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+  <section id="Main13" 
+    	 <div class="h1cent">
+  	 
+  	
+<h1 class="text-center">Особенности гироскутеров</h1>
+<br>
+<br>
+<div class="example-shadow-3"><span>
+ 
+
+ <div class="container11">
+                    <h1>МИНУСЫ</h1>
+
+                    <hr>
+                   <p> Трясёт</p>
+             <p>  Нет сиденья </p>
+             <p>  Только для одного </p>
+              
+
+
+</div>
+
+
+
+
+
+
+
+</span>
+
+
+<span>
+ 
+ <div class="container11">
+
+                    <h1>ПЛЮСЫ</h1>
+                    
+                    <hr>
+                   <p>  Простота в освоении </p>
+             <p>   Небольшой вес </p>
+             <p>     Доступность </p>
+           
+
+
+
+</div>
+
+
+
+
+
+
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+  </div>
+
+</section>
+
+
+
+<div class="Brandss">
+<section id="Brands" class="container justify-content-between">
+        <h1 class="text-center">Наши бренды</h1>
+        <p class="text-center">В нашем магазине представлен ассортимент товаров только от проверенных брендов.</p>
+        <ul>
+            <li>
+                <a>XIAOMI</a>
+            </li>
+            <li>
+                <a>SMART</a>
+            </li>
+            <li>
+                <a>BALANCE</a>
+            </li>
+            <li>
+                <a>SUBOR</a>
+            </li>
+            <li>
+                <a>LINBOL</a>
+            </li>
+            <li>
+                <a>AIRWHEEL</a>
+            </li>
+            <li>
+                <a>KUGOO</a>
+            </li>
+        </ul>
+    </section>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+    <div class="catalog" id="catalog">
+        <div class="container">
+            <div class="catalog-block">
+                <h2>Каталог</h2>
+                <input type="radio" id="all" name="categories" value="all" checked>
+                <input type="radio" id="electro" name="categories" value="electro">
+                <input type="radio" id="seegways" name="categories" value="seegways">
+                <input type="radio" id="giro" name="categories" value="giro">
+
+                <div class="label-block">
+                    <label for="all" id="all-tab">Все</label>
+                    <label for="electro" id="electro-tab">Электросамокаты</label>
+                    <label for="seegways" id="seegways-tab">Сигвеи</label>
+                    <label for="giro" id="giro-tab">Гироскутеры</label>
+                </div>
+
+                <!-- Электросамокаты -->
+
+                <div id="electro-block" class="catalog-cards">
+
+
+
+<div class="card1">
+  <img src="img/1.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+
+
+
+
+<div class="card1">
+  <img src="img/2.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+
+
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+
+    </div>
+               
+
+
+                <div id="seegways-block" class="catalog-cards">
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+
+    
+      
+
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+</div>
+
+
+
+                <div id="giro-block" class="catalog-cards">
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+
+
+
+
+
+
+<div class="card1">
+  <img src="img/3.png" alt="Электроскутеры" style="width:100%">
+  <h3>Xiaomi Mijia Electric <br>
+                                Scooterm187
+                                Black</h3>
+  <p class="price">20 480 р.</p>
+  <p>черный</p>
+  <p><button>Купить</button></p>
+</div>
+</div>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<div class="Brandsss">
+<h1 class="text-center">Помогут с выбором</h1>
+  <section id="preim">
+            <div class="container">
+    <div class="preim_cards">
+
+                    <div class="pr">
+
+                        <ul class="text-center">
+                    <li> <img src="img/paren1.png" alt=" ">  </li>
+                    <li><h4>Александр Петрович<br> Коровин</h4></li>
+                    <li><p>Нам отдают предпочтение, как частные лица, так и&nbsp;компании с&nbsp;собственными автопарками, которым мы&nbsp;делаем спецпредложения.</p></li>
+                        </ul>
+
+                    </div>
+
+       
+                    <div class="pr">
+
+                        <ul class="text-center">
+                    <li> <img src="img/paren2.png" alt=" ">  </li>
+                    <li><h4>Артём Никитич <br> Сухачёв</h4></li>
+                    <li><p>Нам отдают предпочтение, как частные лица, так и&nbsp;компании с&nbsp;собственными автопарками, которым мы&nbsp;делаем спецпредложения.</p></li>
+                        </ul>
+
+                    </div>
+
+        
+                    <div class="pr">
+
+                        <ul class="text-center">
+                    <li> <img src="img/paren3.png" alt=" ">  </li>
+                    <li><h4>Сергей Васильевич<br> Дробин</h4></li>
+                    <li><p>Нам отдают предпочтение, как частные лица, так и&nbsp;компании с&nbsp;собственными автопарками, которым мы&nbsp;делаем спецпредложения.</p></li>
+                        </ul>
+
+                    </div>
+          </div>
+
+          </div>
+
+
+</section>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="INFO">
+     <section id="INFO" class="container justify-content-between">
+        <h1 class="text-center">Полезная информация</h1>
+        <div class="cardrow">
+            <div class="INFOCard">
+                <img src="img/KKART1.png" alt="Useful Info Image">
+                <p>Как выбрать гироскутер?<br />Советы перед покупкой</p>
+            </div>
+            <div class="INFOCard">
+                <img src="img/KKART2.png" alt="Useful Info Image">
+                <p>Электросамокат.<br />Какой лучше, как выбрать?</p>
+            </div>
+            <div class="INFOCard">
+                <img src="img/KKART3.png" alt="Useful Info Image">
+                <p>Как выбрать сигвей?<br />На что обратить внимание?</p>
+            </div>
+            <div class="INFOCard">
+                <img src="img/KKART4.png" alt="Useful Info Image">
+                <p>Советы по выбору<br />гироскутера для ребенка.</p>
+            </div>
+        </div>
+    </section>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="kontactii">   
+<section id="kontacti">
+
+<div class="container">
+
+ 
+    	<div class="h2cent">
+  	  <h2 class="text-center">Подпишитесь на рассылку</h2>
+  	 
+    </div>
+                 
+                    <div class="form-inner">
+                    <input type="text" placeholder="Введите своё имя">
+                    <input type="text" placeholder="Введите Email">
+                    <input type="submit" value="Подписаться">
+    
+
+    </form>
+
+
+
+</section>
+
+ </div>
+
+
+
+
+
+
+
+    <footer class="footer-distributed">
+<div class="container">
+      <div class="footer-right">
+
+       <a href="#">  <img src="img/vk2.png" width="35" height="35"> </a>
+        <a href="#">  <img src="img/inst2.png" width="35" height="35"> </a>
+     
+
+      </div>
+
+
+
+
+                    <div class="footer-left">
+                        <ul id="downmenu">
+                        <li class="activee"><a href="#home">Главная</a></li>
+                            <li><a href="#about">О нас</a></li>
+                            <li><a href="#yslugi">Каталог</a></li>
+                            <li class="last"><a href="#kontacti">Контакты</a></li>
+                            
+                            
+                        </ul>
+                    
+
+
+
+<br>
+<br>
+<br>
+<div class="container">
+
+<div class="text-center">
+    <p>MyGiro &copy; 2021</p>
+   </div>
+</div>
+
+
+ 
+      
+   </div>
+     
+ 
+    </footer>
+  
+
+</html>

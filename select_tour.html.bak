@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Эльбрус</title>
+
+	<link rel="stylesheet" href="css/select_tour.css">
+
+
+
+</head>
+<body>
+
+
+        <header>
+           <div class="container1">
+                <div class="logo">
+                    <a href="../index.php">
+                       <img src="images/logo11.png" style="/* width:145px; *//* height:145px; */" alt="logo">
+                    </a>
+                </div>
+<div class="navmenu"style="text-align: center;">
+                        <ul id="menu">
+                        <li class="active"><a href="about.html">О нас</a></li>
+                            <li><a href="search.php">Туры</a></li>
+
+              <li><a href="#YSLUGI">Акции</a></li>
+              <li><a href="faq.html">Поддержка</a></li>
+
+                            <li ><a href="contacti.html">Контакты</a></li>
+                            <li class="last">
+
+  <a href="../profile.php">   <img src="images/ic2.png" width="20px" height="20px"   ></a>
+
+</li>
+
+                            <!--li><a href="#features">Features</a></li-->
+                        </ul>
+                    </div>
+
+            </div>
+
+
+
+
+        </header>
+
+
+<section id="podr">
+
+<div class="container">
+
+<div class="box122">
+
+<h1> ВОСХОЖДЕНИЕ В МАССИВЕ БЕЛУХИ</h1>
+<p>Район горы Белуха очень богат на реки и озера.<br> 
+Реки отличаются быстрым течением и имеют множество мест с каскадами,<br>
+ а озера — одни из самых живописных и чистых на планете. </p>
+
+</div>
+
+
+
+<div class="box1">
+
+<div class="box123">
+
+<h1> Галерея</h1>
+
+
+</div>
+
+
+
+
+
+<div class="container">
+<table>
+ 
+ <tbody><tr> <th> </th> 
+   <th></th></tr>
+ <tr>
+
+  <td>
+
+ <div class="box4">
+						 <ul class="align=left">
+						<li><img src="images/kr008.jpg" width="450" height="400"></li>
+						<table>
+
+					<tbody><tr><td> <li>  <img src="images//kr009.jpg" width="220" height="180"> </li></td>
+					<td> <li>  <img src="images//kr010.jpg" width="220" height="180"> </li></td>
+						
+
+					
+				</tr></tbody></table>
+					
+		 			
+								
+	</ul></div> </td>
+	 <td>
+	 	<div class="box4"> 
+	 		<ul class="align=left">
+	 		<table>
+
+
+					<tbody><tr><td> <li>  <img src="images/kr012.jpg" width="220" height="180"> </li></td>
+					<td> <li>  <img src="images//kr011.jpg" width="220" height="180"> </li></td>
+						
+
+					
+				</tr></tbody></table>
+  						
+
+
+						<li> <img src="images//kr007.jpg" width="450" height="400"></li>
+						
+						</ul>
+		
+ </div></td>
+</tr></tbody></table>
+
+</div>
+ <div class="containerBRON">
+<a href="Chek_P.html" class="knopkaPROSM"><p1>Забронировать</p1> </a>
+</div>
+
+</div>
+
+
+
+
+
+
+</div>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+
+
+<footer>
+            <div class="container1">
+			<div class="card_r">
+			
+			
+			<div class="navmenu" style="text-align: center;">
+                        <ul id="menu">
+                        <li class="active"><a href="about.html">О нас</a></li>
+                            <li><a href="search.html">Туры</a></li>
+
+              <li><a href="#YSLUGI">Акции</a></li>
+
+
+                            <li><a href="#kontacti">Контакты</a></li>
+                            <li class="last">
+
+  <a href="../registrarion.html" class="button1" onclick="togglePopup()">   <img src="images/ic1.png"></a>
+
+</li>
+
+                            <!--li><a href="#features">Features</a></li-->
+                        </ul>
+                    </div>
+			
+			
+			
+			
+			 </div>
+			
+			
+			
+			
+			
+				
+				
+				
+				
+				<div class="card_r">
+	
+               
+                    <a href="../index.html">
+                       <img src="images/Icons/inst1.png"  width="40px" height="40px" alt="ic">
+                    </a>
+               
+				 
+                    <a href="../index.html">
+                       <img src="images/Icons/vk1.png" width="40px" height="40px" alt="ic">
+                    </a>
+                </div>
+</div>
+         
+
+<div class="container33">
+
+				<ul>
+							<li> <a href="#"> </a><p><a href="#">Copyright © RUS Tourism 
+ 							2022  Все права защищены  </a> </p>  </li>
+								
+				</ul>
+
+ 	</div>
+
+       </footer>
+
+
+
+
+
+
+</body>
+</html>

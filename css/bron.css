@@ -1,0 +1,284 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+:root {
+	--index: calc(1vw + 1vh);
+	--gutter: 30px;
+	--side-small: 26;
+	--side-big: 36;
+	--depth: 4000px;
+	--transition: .75s cubic-bezier(.075, .5, 0, 1)
+}
+@font-face {
+	font-family: raleway_c;
+	src: url(../fonts/raleway-v22-cyrillic-300.woff2);
+	font-weight: 300;
+}
+@font-face {
+	font-family: raleway_c;
+	src: url(../fonts/raleway-v22-cyrillic-100.woff2);
+	font-weight: 100;
+}
+body {
+	background-color: #000;
+	color: #fff;
+	font-size: calc(var(--index) * .8);
+	font-family: raleway_c, sans-serif;
+	line-height: 1.75;
+	height: var(--depth);
+	font-weight: 300;
+}
+.container {
+    width: 1600px;
+    margin: 0 auto;
+    padding-top: 250px;
+    /* height: 100%; */
+    padding-bottom: 100px;
+}
+
+.con1 {
+    display: inline-block;
+    /* padding-right: 205px; */
+    padding-left: 100px;
+}
+
+#menu a:active {
+color: #7f747f;
+/* #5070a3 */
+}
+#menu select {
+display: none;
+}
+
+#menu .active a {
+border:0;
+color:#7f747f;
+}
+#menu .active a:focus {
+outline: none;
+border: none;
+}
+#menu .active a:active {
+outline: none;
+border: none;
+}
+#menu .active a:link {
+outline: none;
+border: none;
+}
+#menu .active a:visited  {
+outline: none;
+border: none;
+}
+#menu li{
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+
+  padding-left: 17px;
+  padding-right: 16px;
+  float:left;
+
+  font-size:14px;
+  color:#fff;
+  list-style:none;
+  text-transform:uppercase;
+  font-weight:700;
+}
+#menu li:last-child{
+  border-right:0;
+  padding-right:0px;
+}
+#menu{
+  margin-top: 33px;
+  float: right;
+}
+#menu li a{
+  color: white;
+  text-decoration:none;
+}
+#menu li a:hover{
+  border:none;
+  outline:none;
+  color:#7f747f;
+}
+header {
+    width: 100%;
+    height: 100px;
+    /* border-bottom: 1px solid #ececec; */
+}
+
+nav{
+  width: 290px;
+  max-width: 100%;
+}
+
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li a{
+  color: black;
+  text-decoration: none;
+}
+
+
+header .container1 {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  justify-content: space-between;
+}
+
+header .logo a {
+  text-decoration: none;
+  color: white;
+  font-size: 36px;
+  font-family: "Manrope Bold";
+}
+
+header nav {
+  width: 446px;
+  max-width: 100%;
+}
+
+header nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+header nav ul li a {
+  font-size: 24px;
+  text-decoration: none;
+  color: white;
+}
+
+header nav ul li a:hover {
+  text-decoration: none;
+  color: white;
+}
+header .container1 {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    position: fixed;
+    width: 1600px;
+    padding-left: 240px;
+    justify-content: space-between;
+}
+h1, h2, h3, h4 {
+	font-weight: 100;
+	text-transform: uppercase;
+	width: min-content;
+	line-height: 1;
+}
+
+#dalee li {
+    display: inline-block;
+    padding-right: 140px;
+}
+#dalee li a{
+  color: white;
+  text-decoration:none;
+}
+#dalee li a:hover{
+  border:none;
+  outline:none;
+  color:#7f747f;
+}
+
+.frame{
+	display: inline-block;
+}
+
+.frame__content3{
+display: inline-block;
+}
+	.fr2{
+		width: 145px;
+		height: 145px;
+
+}
+
+.frame__content3 p {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+	.FR1{
+		padding-bottom: 90px;
+		 border-bottom: 1px solid #ececec;
+
+}
+.framee {
+    padding-left: 200px;
+    padding-top: 80px;
+}
+
+.logo {
+    padding-top: 30px;
+}
+
+
+
+
+
+.container p {
+    padding-top: 40px;
+    font-size: 18px;
+}
+
+.container h2 {
+    font-size: 80px;
+}
+
+
+a.button1 {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.con2 {
+    position: absolute;
+    display: inline-flex;
+}
+
+.con3 {
+  padding-top: 100px;
+}
+
+.con3 {
+    padding-top: 60px;
+    padding-left: 1420px;
+}
+
+.con3 .footer-right a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    /* background-color: #bfbfbf; */
+    border-radius: 2px;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+    margin-left: 3px;
+    transition: all .25s;
+}
+
+ul li{
+  list-style: none;
+}
+
+.text_con1 p1{
+  padding-bottom: 10px;
+}
